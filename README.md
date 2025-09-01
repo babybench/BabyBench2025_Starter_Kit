@@ -1,5 +1,7 @@
 ![BabyBench: A Multimodal Benchmark of Infant Behaviors for Developmental Artificial Intelligence](babybench/banner.png)
 
+**UPDATE: The submission deadline has been extended until September 8, 2025**
+
 # BabyBench 2025 Competition Starter Kit
 
 BabyBench is a multimodal benchmark for intrinsic motivations and open-ended learning in developmental artificial ingelligence. The objective is to teach typical behavioral milestones to [MIMo](https://github.com/trieschlab/MIMo), the multimodal infant model. We provide the embodiment, the simulation environments, and the evaluation metrics; all you need is to implement your ideas.
@@ -8,7 +10,7 @@ The first **BabyBench Competition** will take place at the [***IEEE* ICDL 2025 C
 
 ### Important dates
 
-* **Submission deadline: September 1, 2025**
+* **Submission deadline: ~~September 1, 2025~~ September 8, 2025**
 * Winner announcement at ICDL: September 19, 2025
 
 ### Why Participate?
